@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ResistanceCalculator</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="action_settings">Settings</string>
+    <string name="resistance">Resistance Value: </string>
+    <string name="ten_zero">10<sup><small>0</small></sup></string>
+    <string name="ten_one">10<sup><small>1</small></sup></string>
+    <string name="ten_two">10<sup><small>2</small></sup></string>
+    <string name="ten_three">10<sup><small>3</small></sup></string>
+    <string name="ten_four">10<sup><small>4</small></sup></string>
+    <string name="ten_five">10<sup><small>5</small></sup></string>
+    <string name="ten_six">10<sup><small>6</small></sup></string>
+    <string name="ten_seven">10<sup><small>7</small></sup></string>
+    <string name="ten_eight">10<sup><small>8</small></sup></string>
+    <string name="ten_nine">10<sup><small>9</small></sup></string>
+    <string name="ten_neg_one">10<sup><small>-1</small></sup></string>
+    <string name="ten_neg_two">10<sup><small>-2</small></sup></string>
+    <string name="unc_one"><node>\u00b1 1\u0025</node></string>
+    <string name="unc_two"><node>\u00b1 2\u0025</node></string>
+    <string name="unc_point_five"><node>\u00b1 0.5\u0025</node></string>
+    <string name="unc_point_ten"><node>\u00b1 0.10\u0025</node></string>
+    <string name="unc_point_two_five"><node>\u00b1 0.25\u0025</node></string>
+    <string name="unc_point_zero_five"><node>\u00b1 0.05\u0025</node></string>
+    <string name="unc_five"><node>\u00b1 5\u0025</node></string>
+    <string name="unc_ten"><node>\u00b1 10\u0025</node></string>
+</resources>
+
